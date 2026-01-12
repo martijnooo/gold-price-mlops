@@ -1,0 +1,8 @@
+pandas
+yfinance
+boto3
+mlflow
+scikit-learn
+tensorflow
+pmdarima
+python-dotenv

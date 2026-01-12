@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+boto3
+mlflow
+python-dotenv
+tensorflow
+pmdarima
+yfinance

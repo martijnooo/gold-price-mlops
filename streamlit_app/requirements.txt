@@ -1,0 +1,7 @@
+gradio
+pandas
+plotly
+numpy
+scikit-learn
+requests
+python-dotenv
